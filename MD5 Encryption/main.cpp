@@ -10,10 +10,6 @@
 
 
 ////////////////////////////////////////////////////////////////////////////////
-
-// md5test.cpp : Defines the entry point for the console application.
-//
-
 #include "string.h"
 #include "md5.h"
 #include <stdio.h>
